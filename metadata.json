@@ -1,0 +1,6 @@
+{
+  "name": "Bạch Nhật Anh Audio",
+  "description": "Ứng dụng nghe audiobook và quản lý thư viện truyện nói offline chuyên sâu trên Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

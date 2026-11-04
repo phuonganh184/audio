@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Bạch Nhật Anh Audio</string>
+    <string name="nav_home">Trang chủ</string>
+    <string name="nav_library">Thư viện</string>
+    <string name="nav_playlists">Danh sách</string>
+    <string name="nav_history">Tiến trình</string>
+    <string name="nav_settings">Cài đặt</string>
+    <string name="action_resume_listening">Nghe tiếp</string>
+    <string name="action_import_audio">Nhập tệp Audio</string>
+    <string name="action_play_pause">Phát hoặc Tạm dừng</string>
+    <string name="action_next_chapter">Chương tiếp theo</string>
+    <string name="action_prev_chapter">Chương trước</string>
+    <string name="action_rewind">Tua lùi</string>
+    <string name="action_forward">Tua tới</string>
+    <string name="action_toggle_theme">Chuyển chế độ Sáng / Tối</string>
+    <string name="action_toggle_favorite">Chuyển trạng thái Yêu thích</string>
+    <string name="action_add_bookmark">Thêm dấu trang</string>
+    <string name="action_sleep_timer">Hẹn giờ tắt</string>
+    <string name="action_backup_db">Sao lưu CSDL</string>
+    <string name="action_restore_db">Khôi phục CSDL</string>
+    <string name="search_placeholder">Tìm truyện, chương, tác giả (có dấu / không dấu)…</string>
+    <string name="app_info_copyright">Đồ án môn: Ứng dụng Java cho Công nghệ — Bạch Nhật Anh Audio v1.0 (100% Offline)</string>
+</resources>
